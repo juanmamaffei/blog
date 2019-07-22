@@ -1,10 +1,10 @@
 ---
 ID: 394
 post_title: Checkout
-author: jmmaffei
+author: ""
 post_excerpt: ""
 layout: page
 permalink: https://jmmaffei.com/checkout/
 published: true
-post_date: 2019-07-19 18:46:08
+post_date: 0000-00-00 00:00:00
 ---
