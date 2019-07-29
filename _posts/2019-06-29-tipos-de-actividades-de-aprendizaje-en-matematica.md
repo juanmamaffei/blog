@@ -9,7 +9,7 @@ layout: post
 permalink: >
   https://jmmaffei.com/tipos-de-actividades-de-aprendizaje-en-matematica/
 published: true
-post_date: 2019-07-29 04:41:50
+post_date: 2019-06-29 04:41:50
 ---
 <!-- wp:paragraph -->
 <p>Existen diferentes capacidades que se ponen en juego a la hora de plantear actividades en matemática.</p>
