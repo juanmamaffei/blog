@@ -51,6 +51,10 @@ post_date: 2019-06-29 04:41:50
 <p><strong>Actividad para CREAR</strong>: Luego de resolver todos los ejercicios de la unidad referida a límites, elabore un diagrama de flujos en el que exponga las estrategias que sigue a la hora de evaluar un límite.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://1drv.ms/b/s!Au1d7R_1V3vC6h4AfHCjGArfIKK9?e=MsQlbk">Descargar en PDF</a></div>
+<!-- /wp:button -->
+
 <!-- wp:heading -->
 <h2>Bibliografía</h2>
 <!-- /wp:heading -->
