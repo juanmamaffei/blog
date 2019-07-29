@@ -20,6 +20,10 @@ post_date: 2019-06-29 04:41:50
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
+<p>A modo de ejemplo:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p><strong>Actividad para CONSIDERAR</strong>: Enunciar la paradoja de Aquiles y la tortuga.</p>
 <!-- /wp:paragraph -->
 
