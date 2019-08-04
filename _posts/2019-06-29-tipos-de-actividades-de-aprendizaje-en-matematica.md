@@ -40,7 +40,7 @@ post_date: 2019-06-29 04:41:50
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Actividad para APLICAR</strong>: La corriente eléctrica es directamente proporcional a la tensión aplicada e inversamente proporcional a la resistencia que ofrece el circuito eléctrico que la recorre ($I=V/R$). En un cortocircuito, la resistencia es muy baja (cercana a $0\Omega$). Apóyese en los límites para explicar qué ocurre con la corriente eléctrica en un cortocircuito.</p>
+<p><strong>Actividad para APLICAR</strong>: La corriente eléctrica es directamente proporcional a la tensión aplicada e inversamente proporcional a la resistencia que ofrece el circuito eléctrico que la recorre ($$I=V/R$$). En un cortocircuito, la resistencia es muy baja (cercana a $$0\Omega$$). Apóyese en los límites para explicar qué ocurre con la corriente eléctrica en un cortocircuito.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -60,5 +60,5 @@ post_date: 2019-06-29 04:41:50
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Harris, J., &amp; Hofer, M. (2009, March). Instructional planning activity types as vehicles for curriculum-based TPACK development. In <em>Society for Information Technology &amp; Teacher Education International Conference</em> (pp. 4087-4095). Association for the Advancement of Computing in Education (AACE).</p>
+<p>Harris, J., &amp; Hofer, M. (2009, March). Instructional planning activity types as vehicles for curriculum-based TPACK development. In&nbsp;<em>Society for Information Technology &amp; Teacher Education International Conference</em>&nbsp;(pp. 4087-4095). Association for the Advancement of Computing in Education (AACE).</p>
 <!-- /wp:paragraph -->
