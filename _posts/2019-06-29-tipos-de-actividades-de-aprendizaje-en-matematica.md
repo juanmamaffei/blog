@@ -40,7 +40,7 @@ post_date: 2019-06-29 04:41:50
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Actividad para APLICAR</strong>: La corriente eléctrica es directamente proporcional a la tensión aplicada e inversamente proporcional a la resistencia que ofrece el circuito eléctrico que la recorre ($$I=V/R$$). En un cortocircuito, la resistencia es muy baja (cercana a $$0\Omega$$). Apóyese en los límites para explicar qué ocurre con la corriente eléctrica en un cortocircuito.</p>
+<p><strong>Actividad para APLICAR</strong>: La corriente eléctrica es directamente proporcional a la tensión aplicada e inversamente proporcional a la resistencia que ofrece el circuito eléctrico que la recorre ([latex]I=V/R[/latex]). En un cortocircuito, la resistencia es muy baja (cercana a [latex]0\Omega[/latex]). Apóyese en los límites para explicar qué ocurre con la corriente eléctrica en un cortocircuito.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
