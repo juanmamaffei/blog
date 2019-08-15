@@ -14,11 +14,7 @@ published: true
 post_date: 2019-08-15 11:20:46
 ---
 <!-- wp:paragraph -->
-<p>
-La Educación Matemática Realista (EMR) es una corriente didáctica
-que promueve una enseñanza de la matemática conectada con la
-realidad, cercana a los alumnos y relevante para la sociedad, en
-orden a constituirse en un valor humano [CITATION Bre16 \l 3082].</p>
+<p> La Educación Matemática Realista (EMR) es una corriente didáctica que promueve una enseñanza de la matemática conectada con la realidad, cercana a los alumnos y relevante para la sociedad, en orden a constituirse en un valor humano (Bressan A. M., Gallego, Pérez, &amp;<br> Zolkower, 2016).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
