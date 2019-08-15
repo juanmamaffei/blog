@@ -223,6 +223,22 @@ del Mundo en el que Argentina fue eliminada contra Francia:</p>
 <ul><li>Nivel situacional:  ¿Cuál fue la velocidad promedio?</li><li>Nivel referencial:  ¿Qué es la velocidad promedio? ¿Cómo se calcula? ¿La relación entre las variables permite construir una función? ¿Conocen alguna gráfica que permita representar estos valores? ¿Cómo construirían una gráfica de un cuerpo que posee siempre la misma velocidad? ¿Pueden esbozar una gráfica aproximada que muestre el comportamiento real del corredor? ¿Qué diferencias notan entre las gráficas?</li><li>Nivel general:  ¿En qué otros contextos utilizarían estos razonamientos?</li><li>Nivel formal:  ¿Cuál es la función que muestra la distancia recorrida en función del tiempo del cuerpo que se movió siempre a la misma velocidad? ¿En dónde se puede observar la “velocidad” del cuerpo? ¿Cómo se define la pendiente de una función lineal conociendo dos puntos? ¿Cómo se define el ángulo de una función lineal con respecto al eje de las abscisas?</li></ul>
 <!-- /wp:list -->
 
+<!-- wp:paragraph -->
+<p><strong>Actividad</strong>:  Se plantea el ejercicio (2)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Nivel situacional:  ¿El corredor se movió siempre a la misma velocidad? ¿Es suficiente conocer la velocidad promedio para responder esta pregunta? ¿Cómo analizarían el comportamiento de una persona que corre 100 metros? </li><li>Nivel referencial:  ¿Se pueden pensar en más “velocidades medias” a lo largo de la carrera? ¿Qué ocurre cuando los intervalos de tiempo se hacen más pequeños? ¿Pueden trazar la distancia recorrida aproximada y las velocidades promedio en el mismo gráfico? ¿Cómo se relacionan las velocidades promedio con la gráfica de distancia recorrida? Si se traza una recta entre dos puntos dados en la tabla, ¿qué relación hay entre esta recta y la curva de distancia recorrida real? </li><li>Nivel general:  ¿Cómo se define la ley de una recta secante a una curva, conociendo dos puntos de la misma? (Formal) ¿Qué información de la curva se puede deducir a través de la ley de esta recta secante? ¿Qué relación existe entre la pendiente de esta recta y la noción de “velocidad promedio”? ¿Qué debe ocurrir para que la velocidad medida sea instantánea? ¿Qué es una recta tangente a una curva en un punto?</li><li>Nivel formal:  ¿Cómo definirían la recta secante a una curva entre dos puntos? ¿Qué modificarían para que esta recta secante se convierta en tangente? Analíticamente, ¿es esto posible? ¿Contamos con herramientas para hacerlo?</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Actividad 3</strong>:  Se presenta el fragmento del diario y se plantea el interrogante (4).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Nivel situacional:  ¿Es correcto el enunciado del diario? ¿Refiere a velocidad promedio? ¿Refiere a velocidad en un instante determinado?</li><li>Nivel referencial:  ¿Cuál es la velocidad promedio en km/h de la carrera de Bolt? ¿Cuál fue el instante en el que tuvo mayor velocidad? ¿Tenemos elementos suficientes para medir esto? ¿Cuál es la velocidad promedio de Mbappé en su corrida? ¿Son comparables las dos carreras?</li></ul>
+<!-- /wp:list -->
+
 <!-- wp:heading {"level":1} -->
 <h1>Referencias</h1>
 <!-- /wp:heading -->
