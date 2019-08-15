@@ -179,12 +179,12 @@ Se desea conocer:</p>
 </li></ol>
 <!-- /wp:list -->
 
-<!-- wp:heading -->
-<h2>Mbappé versus Bolt</h2>
+<!-- wp:heading {"level":3} -->
+<h3>Mbappé versus Bolt</h3>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"level":3} -->
-<h3>Fragmento de Diario La Nación</h3>
+<!-- wp:heading {"level":4} -->
+<h4>Fragmento de Diario La Nación</h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -211,109 +211,20 @@ del Mundo en el que Argentina fue eliminada contra Francia:</p>
 <p>Las siguientes actividades representan una propuesta<em> a priori </em>de actividades y preguntas orientadoras que pueden fomentar la matematización horizontal y vertical, tendiendo a alcanzar, de manera progresiva, el concepto de derivada, desde lo informal hasta llegar a su definición formal.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:table -->
-<table class="wp-block-table"><tbody><tr><td>
-				<strong>Actividad</strong>
-			</td><td>
-				<strong>Nivel</strong>
-			</td><td>
-				<strong>Preguntas orientadoras para la reflexión</strong>
-			</td></tr><tr><td>
-				Se proyecta el video de la carrera de 100 metros del año 2009.
-				Se explica que las mediciones fueron tomadas con las cámaras y
-				se entrega una copia impresa de la tabla. Se plantea el ejercicio
-				(1).
-			</td><td>
-				Situacional
-			</td><td>
-				¿Cuál fue la velocidad promedio? 
-				
-			</td></tr><tr><td>
-				Referencial
-			</td><td>
-				¿Qué es la velocidad promedio? ¿Cómo se calcula? ¿La
-				relación entre las variables permite construir una función?
-				¿Conocen alguna gráfica que permita representar estos valores?
-				¿Cómo construirían una gráfica de un cuerpo que posee siempre
-				la misma velocidad? ¿Pueden esbozar una gráfica aproximada que
-				muestre el comportamiento real del corredor? ¿Qué diferencias
-				notan entre las gráficas?
-			</td></tr><tr><td>
-				General
-			</td><td>
-				¿En qué otros contextos utilizarían estos razonamientos?
-			</td></tr><tr><td>
-				Formal
-			</td><td>
-				¿Cuál es la función que muestra la distancia recorrida en
-				función del tiempo del cuerpo que se movió siempre a la misma
-				velocidad? ¿En dónde se puede observar la “velocidad” del
-				cuerpo? ¿Cómo se define la pendiente de una función lineal
-				conociendo dos puntos? ¿Cómo se define el ángulo de una
-				función lineal con respecto al eje de las abscisas?
-			</td></tr><tr><td>
-				Se plantea el ejercicio (2)<sup><a href="#sdfootnote1sym"><sup>1</sup></a></sup>.
-			</td><td>
-				Situacional
-			</td><td>
-				¿El corredor se movió siempre a la misma velocidad? ¿Es
-				suficiente conocer la velocidad promedio para responder esta
-				pregunta? ¿Cómo analizarían el comportamiento de una persona
-				que corre 100 metros?
-			</td></tr><tr><td>
-				Referencial
-			</td><td>
-				¿Se pueden pensar en más “velocidades medias” a lo largo de
-				la carrera? ¿Qué ocurre cuando los intervalos de tiempo se
-				hacen más pequeños? ¿Pueden trazar la distancia recorrida
-				aproximada y las velocidades promedio en el mismo gráfico? ¿Cómo
-				se relacionan las velocidades promedio con la gráfica de
-				distancia recorrida? Si se traza una recta entre dos puntos dados
-				en la tabla, ¿qué relación hay entre esta recta y la curva de
-				distancia recorrida real?
-			</td></tr><tr><td>
-				General
-			</td><td>
-				¿Cómo se define la ley de una recta secante a una curva,
-				conociendo dos puntos de la misma? (Formal) ¿Qué información
-				de la curva se puede deducir a través de la ley de esta recta
-				secante? ¿Qué relación existe entre la pendiente de esta recta
-				y la noción de “velocidad promedio”? ¿Qué debe ocurrir
-				para que la velocidad medida sea instantánea? ¿Qué es una
-				recta tangente a una curva en un punto?
-			</td></tr><tr><td>
-				Formal
-			</td><td>
-				¿Cómo definirían la recta secante a una curva entre dos
-				puntos? ¿Qué modificarían para que esta recta secante se
-				convierta en tangente? Analíticamente, ¿es esto posible?
-				¿Contamos con herramientas para hacerlo?
-			</td></tr><tr><td>
-				Se presenta el fragmento del diario y se plantea el interrogante
-				(4).
-			</td><td>
-				Situacional
-			</td><td>
-				¿Es correcto el enunciado del diario? ¿Refiere a velocidad
-				promedio? ¿Refiere a velocidad en un instante determinado?
-			</td></tr><tr><td>
-				<br>
+<!-- wp:paragraph -->
+<p><strong>Actividad:</strong> Se proyecta el video de la carrera de 100 metros del año 2009. Se explica que las mediciones fueron tomadas con las cámaras y se entrega una copia impresa de la tabla. Se plantea el ejercicio (1).</p>
+<!-- /wp:paragraph -->
 
-				
-			</td><td>
-				Referencial
-			</td><td>
-				¿Cuál es la velocidad promedio en km/h de la carrera de Bolt?
-				¿Cuál fue el instante en el que tuvo mayor velocidad? ¿Tenemos
-				elementos suficientes para medir esto? ¿Cuál es la velocidad
-				promedio de Mbappé en su corrida? ¿Son comparables las dos
-				carreras?
-			</td></tr></tbody></table>
-<!-- /wp:table -->
+<!-- wp:paragraph -->
+<p><strong>Preguntas orientadoras para la reflexión</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Nivel situacional:  ¿Cuál fue la velocidad promedio?</li><li>Nivel referencial:  ¿Qué es la velocidad promedio? ¿Cómo se calcula? ¿La relación entre las variables permite construir una función? ¿Conocen alguna gráfica que permita representar estos valores? ¿Cómo construirían una gráfica de un cuerpo que posee siempre la misma velocidad? ¿Pueden esbozar una gráfica aproximada que muestre el comportamiento real del corredor? ¿Qué diferencias notan entre las gráficas?</li><li>Nivel general:  ¿En qué otros contextos utilizarían estos razonamientos?</li><li>Nivel formal:  ¿Cuál es la función que muestra la distancia recorrida en función del tiempo del cuerpo que se movió siempre a la misma velocidad? ¿En dónde se puede observar la “velocidad” del cuerpo? ¿Cómo se define la pendiente de una función lineal conociendo dos puntos? ¿Cómo se define el ángulo de una función lineal con respecto al eje de las abscisas?</li></ul>
+<!-- /wp:list -->
 
 <!-- wp:heading {"level":1} -->
-<h1>
-Referencias</h1>
+<h1>Referencias</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
