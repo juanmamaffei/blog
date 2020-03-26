@@ -63,24 +63,7 @@ post_date: 2018-02-26 08:51:24
     <div  data-type="row" data-dynamic-columns="handled" data-content-shortcode="mesmerize_latest_news">[mesmerize_latest_news]</div>
     </div>
     <div  class="row">
-    <div  class="text-center"><a  class="button color1" data-attr-shortcode="href:mesmerize_blog_link" href="[mesmerize_blog_link]" target="_self" rel="noopener noreferrer">SEE ALL BLOG POSTS</a></div>
-    </div>
-    </div>
-    </div><div  data-label="Contact" data-id="contact-1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing white-text" data-parallax-depth="20" id="contact-1" style="background-color: #ffffff; background-image: url('https://extendthemes.com/mesmerize/demos/demo-free-2/wp-content/uploads/2018/02/contact-bg.jpg'); background-size: cover; background-position: center top;">
-    <div  class="">
-    <div  class="row text-center">
-    <div  class="section-title-col" data-type="column">
-    <h2  class="">Contacto</h2>
-    <p  class="lead">Escribíme y si pinta, nos contactamos.</p>
-    
-    </div>
-    </div>
-    <div  class="row text-center">
-    <div  class="col-xs-12 col-sm-8 col-sm-offset-2 contact-form-wrapper inline-info">
-    <div  class="card large-padding">
-    <div  class="" data-content-shortcode="mesmerize_contact_form shortcode=&quot;contact-form-7 id=&amp;amp;quot;4&amp;amp;quot; title=&amp;amp;quot;Contact form 1&amp;amp;quot;&quot;" data-editable="true">[mesmerize_contact_form shortcode="contact-form-7 id=&amp;quot;4&amp;quot; title=&amp;quot;Contact form 1&amp;quot;"]</div>
-    </div>
-    </div>
+    <div  class="text-center"><a  class="button color1" data-attr-shortcode="href:mesmerize_blog_link" href="[mesmerize_blog_link]" target="_self" rel="noopener noreferrer">Ir al blog</a></div>
     </div>
     </div>
     </div>
