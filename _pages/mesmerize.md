@@ -24,7 +24,7 @@ post_date: 2018-02-26 08:51:24
     <i  class="fa icon color1 fa-child reverse round large"> </i>
     <h4  class="">SOBRE MÍ</h4>
     <p  class="">Información sobre los proyectos en los que trabajo y mi formación.</p>
-    <a  class="button small y-move color2" href="#" target="_self" data-cp-link="1"> Ir </a>
+    <a  class="button small y-move color2" href="https://jmmaffei.com/sobre-mi" target="_self" data-cp-link="1"> Ir </a>
     
     </div>
     </div>
@@ -34,7 +34,7 @@ post_date: 2018-02-26 08:51:24
     <i  class="fa icon color1 fa-leanpub reverse round large"> </i>
     <h4  class="">BLOG</h4>
     <p  class="">Mi blog.</p>
-    <a  class="button small y-move color2" href="#" target="_self" data-cp-link="1"> Entrar </a>
+    <a  class="button small y-move color2" href="https://jmmaffei.com/blog" target="_self" data-cp-link="1"> Entrar </a>
     
     </div>
     </div>
