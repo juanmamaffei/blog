@@ -1,6 +1,6 @@
 ---
 ID: 11
-post_title: Front Page
+post_title: 'Front Page [OLD]'
 author: jmmaffei
 post_excerpt: ""
 layout: page
@@ -24,7 +24,7 @@ post_date: 2018-02-26 08:51:24
     <i  class="fa icon color1 fa-child reverse round large"> </i>
     <h4  class="">SOBRE MÍ</h4>
     <p  class="">Información sobre los proyectos en los que estoy trabajando actualmente y mi formación.</p>
-    <a  class="button small y-move color2" href="https://jmmaffei.com/sobre-mi" target="_self" data-cp-link="1"> Ver </a>
+    <a class="button small y-move color2" href="https://jmmaffei.com/sobre-mi" target="_self" data-cp-link="1" rel="noopener noreferrer"> Ver </a>
     
     </div>
     </div>
@@ -34,7 +34,7 @@ post_date: 2018-02-26 08:51:24
     <i  class="fa icon color1 fa-university reverse round large"> </i>
     <h4  class="">RECURSOS</h4>
     <p  class="">Te comparto RECURSOS sobre MATEMÁTICA, ELECTRICIDAD, GESTIÓN DE PROYECTOS, MANTENIMIENTO INDUSTRIAL, entre otras cosas.</p>
-    <a  class="button small y-move color2" href="https://jmmaffei.com/recursos" target="_self" data-cp-link="1"> Ver </a>
+    <a class="button small y-move color2" href="https://jmmaffei.com/recursos" target="_self" data-cp-link="1" rel="noopener noreferrer"> Ver </a>
     
     </div>
     </div>
@@ -44,7 +44,7 @@ post_date: 2018-02-26 08:51:24
     <i  class="fa icon color1 fa-book reverse round large"> </i>
     <h4  class="">BLOG</h4>
     
-    <a  class="button small y-move color2" href="https://jmmaffei.com/blog" target="_self" data-cp-link="1"> Ver </a>
+    <a class="button small y-move color2" href="https://jmmaffei.com/blog" target="_self" data-cp-link="1" rel="noopener noreferrer"> Ver </a>
     
     </div>
     </div>
@@ -56,7 +56,7 @@ post_date: 2018-02-26 08:51:24
     <div  class="col-sm-8 space-bottom-xs" data-type="column">
     <h2  class="">¿Te gusta mi trabajo?</h2>
     </div>
-    <div  class="col-sm-4 end-sm" data-type="column"><a  class="button color2" href="#" target="_self" data-cp-link="1"> ¡Escribíme! </a></div>
+    <div  class="col-sm-4 end-sm" data-type="column"><a class="button color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer"> ¡Escribíme! </a></div>
     </div>
     </div>
     </div><div  data-label="Latest-news" data-id="blog-section" data-export-id="blog-section" data-category="latest_news" class="blog-section content-section content-section-spacing" id="latest-news-1" style="background-color: #f5fafd;">
@@ -72,7 +72,7 @@ post_date: 2018-02-26 08:51:24
     <div  data-type="row" data-dynamic-columns="handled" data-content-shortcode="mesmerize_latest_news">[mesmerize_latest_news]</div>
     </div>
     <div  class="row">
-    <div  class="text-center"><a  class="button color1" data-attr-shortcode="href:mesmerize_blog_link" href="[mesmerize_blog_link]" target="_self" rel="noopener noreferrer">SEE ALL BLOG POSTS</a></div>
+    <div  class="text-center"><a class="button color1" data-attr-shortcode="href:mesmerize_blog_link" href="[mesmerize_blog_link]" target="_self" rel="noopener noreferrer">SEE ALL BLOG POSTS</a></div>
     </div>
     </div>
     </div><div  data-label="Contact" data-id="contact-1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing white-text" data-parallax-depth="20" id="contact-1" style="background-color: rgb(255, 255, 255); background-size: cover; background-position: center top;">
