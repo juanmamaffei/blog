@@ -12,8 +12,8 @@ post_date: 2018-02-26 08:51:24
     <div  class="gridContainer">
     <div  class="row text-center">
     <div  class="section-title-col" data-type="column">
-    <h2  class="">Formación docente</h2>
-    <p  class="lead">He estudiado tres carreras de Profesorado</p>
+    <h2  class="">Contenido del sitio</h2>
+    <p  class="lead">¿Qué vas a encontrar acá?</p>
     
     </div>
     </div>
