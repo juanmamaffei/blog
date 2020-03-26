@@ -1,12 +1,12 @@
 ---
-ID: 2
+ID: 74
 post_title: Sample Page
 author: jmmaffei
 post_excerpt: ""
 layout: page
 permalink: https://jmmaffei.com/sample-page/
 published: true
-post_date: 2017-11-10 14:08:17
+post_date: 2018-02-26 08:49:23
 ---
 <div class="post-item" style="padding:3rem">
 
