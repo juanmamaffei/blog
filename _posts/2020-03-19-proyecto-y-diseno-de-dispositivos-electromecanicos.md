@@ -15,9 +15,17 @@ post_date: 2020-03-19 18:04:45
 <p class="has-small-font-size">Documento de apoyo para la clase I</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://1drv.ms/b/s!Au1d7R_1V3vC-hZYFAuN8JvwzpGV?e=CkdIbm">Descargar en PDF</a></div>
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:button {"align":"center"} -->
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link" href="https://1drv.ms/b/s!Au1d7R_1V3vC-hZYFAuN8JvwzpGV?e=CkdIbm">Descargar en PDF</a></div>
 <!-- /wp:button -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
 
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">Si analizamos las competencias que hemos desarrollado en los distintos talleres, notaremos que sabemos tornear, fresar, trabajar con maderas y con materiales eléctricos, automatizar procesos, soldar con distintas tecnologías, trazar planos de diferentes tipos ya sea en papel y tinta como usando herramientas CAD. Deberíamos saber montar sistemas neumáticos y oleohidráulicos, implementar circuitos eléctricos pequeños como los de una casa hasta los necesarios para automatizar el montacargas de un gran edificio, diseñar y llevar a cabo planes de mantenimiento para distintos tipos de industria, y también <strong>proyectar y diseñar equipos en su totalidad</strong>.</p>
