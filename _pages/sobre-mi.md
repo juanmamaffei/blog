@@ -85,11 +85,11 @@ post_date: 2020-03-26 05:45:18
 <!-- /wp:separator -->
 
 <!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link">Descargar CV resumido</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://1drv.ms/b/s!Au1d7R_1V3vC-hUKv4QOyOpQYf_f?e=qAzx1s">Descargar CV resumido</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"backgroundColor":"luminous-vivid-orange"} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-background has-luminous-vivid-orange-background-color">Descargar CV completo</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-luminous-vivid-orange-background-color" href="https://1drv.ms/b/s!Au1d7R_1V3vC-hRiisiHZGjgcc5s?e=jjXdhv">Descargar CV completo</a></div>
 <!-- /wp:button -->
 
 <!-- wp:paragraph -->
