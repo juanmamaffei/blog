@@ -43,8 +43,8 @@ post_date: 2018-02-26 08:51:24
     
     <i  class="fa icon color1 fa-mortar-board reverse round large"> </i>
     <h4  class="">RECURSOS PARA ALUMNOS</h4>
-    <p  class="">Si sos alumno, pasá por acá...</p>
-    <a  class="button small y-move color2" href="#" target="_self" data-cp-link="1"> Y dale... </a>
+    <p  class="">Si sos alumno, pasá por acá…</p>
+    <a  class="button small y-move color2" href="#" target="_self" data-cp-link="1"> Y dale… </a>
     
     </div>
     </div>
@@ -54,7 +54,7 @@ post_date: 2018-02-26 08:51:24
     <div  class="gridContainer">
     <div  class="row">
     <div  data-type="column" class="section-title-col">
-    <h2  class="">Lo último del blog...</h2>
+    <h2  class="">Lo último del blog…</h2>
     <p  class="lead">Artículos más recientes</p>
     
     </div>
