@@ -1,8 +1,6 @@
 ---
 ID: 559
-post_title: >
-  Proyecto y Diseño de Dispositivos
-  Electromecánicos
+post_title: 'Proyecto y Diseño de Dispositivos Electromecánicos &#8211; Clase I 2020'
 author: jmmaffei
 post_excerpt: ""
 layout: post
