@@ -13,28 +13,28 @@ post_date: 2018-02-26 08:51:24
     <div  data-type="row" class="row spaced-cols text-center">
     <div  class="col-xs-12 col-sm-4 col-padding">
     
-    <i  class="fa icon shadow-large-black aligncenter color1 fa-clone reverse round large"> </i>
+    <i  class="fa icon shadow-large-black aligncenter color1 fa-child reverse round large"> </i>
     <div  data-type="column" class="">
-    <h5  class="">RESPONSIVE DESIGN</h5>
-    <p  class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <h5  class="">SOBRE MÍ</h5>
+    <p  class="">Información sobre los proyectos en los que trabajo y mi formación.</p>
     
     </div>
     </div>
     <div  class="col-xs-12 col-sm-4 col-padding">
     
-    <i  class="fa icon fa-cogs large shadow-large-black round aligncenter reverse color1"> </i>
+    <i  class="fa icon shadow-large-black aligncenter color1 fa-leanpub reverse round large"> </i>
     <div  data-type="column" class="">
-    <h5  class="">SUPER FEATURES</h5>
-    <p  class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <h5  class="">BLOG</h5>
+    <p  class="">Mi blog.</p>
     
     </div>
     </div>
     <div  class="col-xs-12 col-sm-4 col-padding">
     
-    <i  class="fa icon fa-magic large shadow-large-black round aligncenter reverse color1"> </i>
+    <i  class="fa icon shadow-large-black aligncenter color1 fa-mortar-board reverse round large"> </i>
     <div  data-type="column" class="">
-    <h5  class="">DRAG AND DROP</h5>
-    <p  class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    <h5  class="">RECURSOS PARA ALUMNOS</h5>
+    <p  class="">Si sos alumno, pasá por acá...</p>
     
     </div>
     </div>
@@ -44,8 +44,8 @@ post_date: 2018-02-26 08:51:24
     <div  class="gridContainer">
     <div  class="row text-center">
     <div  class="section-title-col" data-type="column">
-    <h2  class="">A few things we’re great at</h2>
-    <p  class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+    <h2  class="">Formación docente</h2>
+    <p  class="lead">He estudiado tres carreras de Profesorado</p>
     
     </div>
     </div>
@@ -53,30 +53,30 @@ post_date: 2018-02-26 08:51:24
     <div  class="col-sm-4">
     <div  class="card bordered y-move" data-type="column">
     
-    <i  class="fa icon color1 fa-codepen reverse round large"> </i>
-    <h4  class="">DESIGN</h4>
-    <p  class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
-    <a  class="button small y-move color2" href="#"> GET STARTED </a>
+    <i  class="fa icon color1 fa-child reverse round large"> </i>
+    <h4  class="">SOBRE MÍ</h4>
+    <p  class="">Información sobre los proyectos en los que trabajo y mi formación.</p>
+    <a  class="button small y-move color2" href="#" target="_self" data-cp-link="1"> Ir </a>
     
     </div>
     </div>
     <div  class="col-sm-4">
     <div  class="card bordered y-move" data-type="column">
     
-    <i  class="fa icon color1 fa-code reverse round large"> </i>
-    <h4  class="">DEVELOPMENT</h4>
-    <p  class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
-    <a  class="button small y-move color2" href="#"> GET STARTED </a>
+    <i  class="fa icon color1 fa-leanpub reverse round large"> </i>
+    <h4  class="">BLOG</h4>
+    <p  class="">Mi blog.</p>
+    <a  class="button small y-move color2" href="#" target="_self" data-cp-link="1"> Entrar </a>
     
     </div>
     </div>
     <div  class="col-sm-4">
     <div  class="card bordered y-move" data-type="column">
     
-    <i  class="fa icon color1 fa-support reverse round large"> </i>
-    <h4  class="">SUPPORT</h4>
-    <p  class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
-    <a  class="button small y-move color2" href="#"> GET STARTED </a>
+    <i  class="fa icon color1 fa-mortar-board reverse round large"> </i>
+    <h4  class="">RECURSOS PARA ALUMNOS</h4>
+    <p  class="">Si sos alumno, pasá por acá...</p>
+    <a  class="button small y-move color2" href="#" target="_self" data-cp-link="1"> Y dale... </a>
     
     </div>
     </div>
@@ -104,7 +104,7 @@ post_date: 2018-02-26 08:51:24
     <div  class="col-xs-12 col-sm-4 space-bottom-small col-padding-xs">
     <div  class="circle-counter color1">
     
-    <svg  class="circle-svg" viewBox="0 0 100 100" style="height: 230.203px;"> <circle  r="48" stroke-linecap="round" cx="50" cy="50" fill="transparent" stroke-dasharray="301.6" stroke-dashoffset="301.6px"></circle> <circle  class="circle-bar" r="48" stroke-linecap="round" cx="50" cy="50" fill="transparent" stroke-dasharray="301.6" stroke-dashoffset="301.6px" style="stroke-dashoffset: 301.593px;"></circle> </svg>
+    <svg  class="circle-svg" viewBox="0 0 100 100" style="height: 230.203px;"> <circle  r="48" stroke-linecap="round" cx="50" cy="50" fill="transparent" stroke-dasharray="301.6" stroke-dashoffset="301.6px"></circle> <circle  class="circle-bar" r="48" stroke-linecap="round" cx="50" cy="50" fill="transparent" stroke-dasharray="301.6" stroke-dashoffset="301.6px" style="stroke-dashoffset: 0px;"></circle> </svg>
     <div  class="circle-content">
     <h2  class="font-100" data-min="0" data-max="100" data-stop="510" data-prefix="" data-suffix="" data-countup="true" data-duration="2000"></h2>
     Themes
@@ -115,7 +115,7 @@ post_date: 2018-02-26 08:51:24
     <div  class="col-xs-12 col-sm-4 space-bottom-small col-padding-xs">
     <div  class="circle-counter color2">
     
-    <svg  class="circle-svg" viewBox="0 0 100 100" style="height: 230.203px;"> <circle  r="48" stroke-linecap="round" cx="50" cy="50" fill="transparent" stroke-dasharray="301.6" stroke-dashoffset="301.6px"></circle> <circle  class="circle-bar" r="48" stroke-linecap="round" cx="50" cy="50" fill="transparent" stroke-dasharray="301.6" stroke-dashoffset="301.6px" style="stroke-dashoffset: 301.593px;"></circle> </svg>
+    <svg  class="circle-svg" viewBox="0 0 100 100" style="height: 230.203px;"> <circle  r="48" stroke-linecap="round" cx="50" cy="50" fill="transparent" stroke-dasharray="301.6" stroke-dashoffset="301.6px"></circle> <circle  class="circle-bar" r="48" stroke-linecap="round" cx="50" cy="50" fill="transparent" stroke-dasharray="301.6" stroke-dashoffset="301.6px" style="stroke-dashoffset: 75.3982px;"></circle> </svg>
     <div  class="circle-content">
     <h2  class="font-100" data-min="0" data-max="100" data-stop="75" data-prefix="" data-suffix="K" data-countup="true" data-duration="2000"></h2>
     Clients
@@ -126,7 +126,7 @@ post_date: 2018-02-26 08:51:24
     <div  class="col-xs-12 col-sm-4 space-bottom-small col-padding-xs">
     <div  class="circle-counter color4">
     
-    <svg  class="circle-svg" viewBox="0 0 100 100" style="height: 230.203px;"> <circle  r="48" stroke-linecap="round" cx="50" cy="50" fill="transparent" stroke-dasharray="301.6" stroke-dashoffset="301.6px"></circle> <circle  class="circle-bar" r="48" stroke-linecap="round" cx="50" cy="50" fill="transparent" stroke-dasharray="301.6" stroke-dashoffset="301.6px" style="stroke-dashoffset: 301.593px;"></circle> </svg>
+    <svg  class="circle-svg" viewBox="0 0 100 100" style="height: 230.203px;"> <circle  r="48" stroke-linecap="round" cx="50" cy="50" fill="transparent" stroke-dasharray="301.6" stroke-dashoffset="301.6px"></circle> <circle  class="circle-bar" r="48" stroke-linecap="round" cx="50" cy="50" fill="transparent" stroke-dasharray="301.6" stroke-dashoffset="301.6px" style="stroke-dashoffset: 0px;"></circle> </svg>
     <div  class="circle-content">
     <h2  class="font-100" data-min="0" data-max="100" data-stop="100" data-prefix="" data-suffix="%" data-countup="true" data-duration="2000"></h2>
     Fun
@@ -204,8 +204,8 @@ post_date: 2018-02-26 08:51:24
     <div  class="gridContainer">
     <div  class="row">
     <div  data-type="column" class="section-title-col">
-    <h2  class="">Latest News</h2>
-    <p  class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
+    <h2  class="">Lo último del blog...</h2>
+    <p  class="lead">Artículos más recientes</p>
     
     </div>
     </div>
@@ -220,8 +220,8 @@ post_date: 2018-02-26 08:51:24
     <div  class="">
     <div  class="row text-center">
     <div  class="section-title-col" data-type="column">
-    <h2  class="">Contact us</h2>
-    <p  class="lead">With the Internet spreading linke wildfire and reaching every part of our daily life, more and more traffic is directed to websites in search for information.</p>
+    <h2  class="">Contacto</h2>
+    <p  class="lead">Escribíme y si pinta, nos contactamos.</p>
     
     </div>
     </div>
