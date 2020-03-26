@@ -213,7 +213,7 @@ post_date: 2018-02-26 08:51:24
     <div  data-type="row" data-dynamic-columns="handled" data-content-shortcode="mesmerize_latest_news">[mesmerize_latest_news]</div>
     </div>
     <div  class="row">
-    <div  class="text-center"><a class="button color1" data-attr-shortcode="href:mesmerize_blog_link" href="[mesmerize_blog_link]" target="_self" rel="noopener noreferrer">SEE ALL BLOG POSTS</a></div>
+    <div  class="text-center"><a  class="button color1" data-attr-shortcode="href:mesmerize_blog_link" href="[mesmerize_blog_link]" target="_self" rel="noopener noreferrer">SEE ALL BLOG POSTS</a></div>
     </div>
     </div>
     </div><div  data-label="Contact" data-id="contact-1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing white-text" data-parallax-depth="20" id="contact-1" style="background-color: #ffffff; background-image: url('https://extendthemes.com/mesmerize/demos/demo-free-2/wp-content/uploads/2018/02/contact-bg.jpg'); background-size: cover; background-position: center top;">
