@@ -44,7 +44,7 @@ post_date: 2018-02-26 08:51:24
     <i  class="fa icon color1 fa-mortar-board reverse round large"> </i>
     <h4  class="">RECURSOS PARA ALUMNOS</h4>
     <p  class="">Si sos alumno, pasá por acá…</p>
-    <a  class="button small y-move color2" href="#" target="_self" data-cp-link="1"> Y dale… </a>
+    <a  class="button small y-move color2" href="recursos" target="_self" data-cp-link="1"> Y dale… </a>
     
     </div>
     </div>
