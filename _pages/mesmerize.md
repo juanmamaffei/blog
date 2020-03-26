@@ -8,39 +8,7 @@ permalink: https://jmmaffei.com/
 published: true
 post_date: 2018-02-26 08:51:24
 ---
-<div  id="overlappable-4" style="background-color: #ffffff; background-image: none;" data-label="Overlappable" data-id="overlappable-4" data-export-id="overlappable-4" data-category="overlappable" class="overlappable-4 content-section content-section-spacing" data-overlap="true">
-    <div  class="gridContainer">
-    <div  data-type="row" class="row spaced-cols text-center">
-    <div  class="col-xs-12 col-sm-4 col-padding">
-    
-    <i  class="fa icon shadow-large-black aligncenter color1 fa-child reverse round large"> </i>
-    <div  data-type="column" class="">
-    <h5  class="">SOBRE MÍ</h5>
-    <p  class="">Información sobre los proyectos en los que trabajo y mi formación.</p>
-    
-    </div>
-    </div>
-    <div  class="col-xs-12 col-sm-4 col-padding">
-    
-    <i  class="fa icon shadow-large-black aligncenter color1 fa-leanpub reverse round large"> </i>
-    <div  data-type="column" class="">
-    <h5  class="">BLOG</h5>
-    <p  class="">Mi blog.</p>
-    
-    </div>
-    </div>
-    <div  class="col-xs-12 col-sm-4 col-padding">
-    
-    <i  class="fa icon shadow-large-black aligncenter color1 fa-mortar-board reverse round large"> </i>
-    <div  data-type="column" class="">
-    <h5  class="">RECURSOS PARA ALUMNOS</h5>
-    <p  class="">Si sos alumno, pasá por acá...</p>
-    
-    </div>
-    </div>
-    </div>
-    </div>
-    </div><div  data-label="Features" data-id="features-13-card-bordered" data-export-id="features-13-card-bordered" data-category="features" class="features-13 content-section content-section-spacing" id="features-7" style="background-color: #f5fafd;">
+<div  data-label="Features" data-id="features-13-card-bordered" data-export-id="features-13-card-bordered" data-category="features" class="features-13 content-section content-section-spacing" id="features-7" style="background-color: #f5fafd;">
     <div  class="gridContainer">
     <div  class="row text-center">
     <div  class="section-title-col" data-type="column">
