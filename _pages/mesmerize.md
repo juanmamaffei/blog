@@ -170,7 +170,7 @@ post_date: 2017-11-10 14:08:51
 <div  class="overlay bg-color6"></div>
 <div  class="swap-inner col-xs-12">
 <div  class="row full-height-row middle-xs middle-sm">
-<div  class="col-xs-12 text-center content-holder"><a class="button small color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer">Read More</a></div>
+<div  class="col-xs-12 text-center content-holder"><a  class="button small color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer">Read More</a></div>
 </div>
 </div>
 </div>
@@ -190,7 +190,7 @@ post_date: 2017-11-10 14:08:51
 <div  class="overlay bg-color6"></div>
 <div  class="swap-inner col-xs-12">
 <div  class="row full-height-row middle-xs middle-sm">
-<div  class="col-xs-12 text-center content-holder"><a class="button small color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer">Read More</a></div>
+<div  class="col-xs-12 text-center content-holder"><a  class="button small color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer">Read More</a></div>
 </div>
 </div>
 </div>
@@ -210,7 +210,7 @@ post_date: 2017-11-10 14:08:51
 <div  class="overlay bg-color6"></div>
 <div  class="swap-inner col-xs-12">
 <div  class="row full-height-row middle-xs middle-sm">
-<div  class="col-xs-12 text-center content-holder"><a class="button small color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer">Read More</a></div>
+<div  class="col-xs-12 text-center content-holder"><a  class="button small color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer">Read More</a></div>
 </div>
 </div>
 </div>
@@ -230,7 +230,7 @@ post_date: 2017-11-10 14:08:51
 <div  class="overlay bg-color6"></div>
 <div  class="swap-inner col-xs-12">
 <div  class="row full-height-row middle-xs middle-sm">
-<div  class="col-xs-12 text-center content-holder"><a class="button small color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer">Read More</a></div>
+<div  class="col-xs-12 text-center content-holder"><a  class="button small color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer">Read More</a></div>
 </div>
 </div>
 </div>
@@ -250,7 +250,7 @@ post_date: 2017-11-10 14:08:51
 <div  class="overlay bg-color6"></div>
 <div  class="swap-inner col-xs-12">
 <div  class="row full-height-row middle-xs middle-sm">
-<div  class="col-xs-12 text-center content-holder"><a class="button small color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer">Read More</a></div>
+<div  class="col-xs-12 text-center content-holder"><a  class="button small color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer">Read More</a></div>
 </div>
 </div>
 </div>
@@ -270,7 +270,7 @@ post_date: 2017-11-10 14:08:51
 <div  class="overlay bg-color6"></div>
 <div  class="swap-inner col-xs-12">
 <div  class="row full-height-row middle-xs middle-sm">
-<div  class="col-xs-12 text-center content-holder"><a class="button small color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer">Read More</a></div>
+<div  class="col-xs-12 text-center content-holder"><a  class="button small color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer">Read More</a></div>
 </div>
 </div>
 </div>
@@ -339,7 +339,7 @@ post_date: 2017-11-10 14:08:51
 <div  class="col-sm-8 space-bottom-xs" data-type="column">
 <h2  class="">Like my work?&nbsp;<span  class="font-300">Hire me!</span></h2>
 </div>
-<div  class="col-sm-4 end-sm" data-type="column"><a class="button color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer"> HIRE ME TODAY </a></div>
+<div  class="col-sm-4 end-sm" data-type="column"><a  class="button color2" href="#" target="_self" data-cp-link="1" rel="noopener noreferrer"> HIRE ME TODAY </a></div>
 </div>
 </div>
 </div><div  id="latest-news-1" style="background-color: #f5fafd;" data-label="Latest-news" data-id="blog-section" data-export-id="blog-section" data-category="latest_news" class="blog-section content-section content-section-spacing">
@@ -355,7 +355,7 @@ post_date: 2017-11-10 14:08:51
 <div  data-type="row" data-dynamic-columns="handled" data-content-shortcode="mesmerize_latest_news">[mesmerize_latest_news]</div>
 </div>
 <div  class="row">
-<div  class="text-center"><a class="button color1" data-attr-shortcode="href:mesmerize_blog_link" href="[mesmerize_blog_link]" target="_self" rel="noopener noreferrer">SEE ALL BLOG POSTS</a></div>
+<div  class="text-center"><a  class="button color1" data-attr-shortcode="href:mesmerize_blog_link" href="[mesmerize_blog_link]" target="_self" rel="noopener noreferrer">SEE ALL BLOG POSTS</a></div>
 </div>
 </div>
 </div><div  id="contact-1" data-label="Contact" data-id="contact-1" data-export-id="contact-1" data-category="contact" class="contact-1 content-section content-section-spacing white-text" data-parallax-depth="20" style="background-image: url('https://extendthemes.com/mesmerize/demos/demo-free-1/wp-content/uploads/2018/02/stephan-valentin-345970.jpg'); background-size: cover; background-position: center top;">
