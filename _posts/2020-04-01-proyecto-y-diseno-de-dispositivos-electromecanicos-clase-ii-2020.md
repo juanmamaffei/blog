@@ -100,7 +100,7 @@ post_date: 2020-04-01 05:44:23
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>En segundo lugar, </strong>tenemos que definir los HITOS TEMPORALES. Estos son BLOQUES del proyecto con una FECHA LÍMITE.</p>
+<p><strong>En segundo lugar, </strong>tenemos que definir los <strong>HITOS TEMPORALES</strong>. Estos son BLOQUES del proyecto con una FECHA LÍMITE.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -112,7 +112,11 @@ post_date: 2020-04-01 05:44:23
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>Vamos a elegir este formato... es decir: LA TAREA TERMINADA, Y LA FECHA LÍMITE.</p>
+<p>Tengan en cuenta que debemos cumplir con un plazo establecido por el cliente (si no lo recordás, volvé a leer el problema).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Para simplificar las cosas vamos a usar este formato, que consiste en mencionar LA TAREA TERMINADA y LA FECHA LÍMITE.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
