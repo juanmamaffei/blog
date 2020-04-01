@@ -144,7 +144,7 @@ post_date: 2020-04-01 05:44:23
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Se debe evaluar cuál es la máxima inversión con la que contamos para diseñar e implementar el proyecto. En nuestro ejemplo, hubo un dato que permitió conocerlo de manera indirecta.</p>
+<p>Se debe evaluar cuál es la máxima inversión con la que contamos para diseñar e implementar el proyecto. En nuestro ejemplo, hubo un dato que permitió conocerlo de manera indirecta (si te lo perdiste, volvé a leer el problema... ¡vago!).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
