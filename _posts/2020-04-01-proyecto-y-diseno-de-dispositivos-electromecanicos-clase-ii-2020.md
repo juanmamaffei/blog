@@ -88,7 +88,7 @@ post_date: 2020-04-01 05:44:23
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Después de trabajar un poco y reescribir bastante, tiene que quedar una frase que entienda ese tío tuyo que no sabe abrir su cuenta de Gmail. <strong>Simple, breve y representativa de lo que vamos a hacer</strong>.</p>
+<p>Después de trabajar un poco y reescribir bastante, tiene que quedar una frase que entienda hasta ese tío tuyo que no entiende las historias de Instagram. <strong>Simple, breve y representativa de lo que vamos a hacer</strong>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
