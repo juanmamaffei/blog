@@ -155,9 +155,9 @@ post_date: 2020-04-01 05:44:23
 <p>Se evaluará la CREATIVIDAD DE LO QUE PROPONGAN, la PERTINENCIA Y PRECISIÓN (que lo que planteen sea adecuado según las condiciones pedidas) y también la PRESENTACIÓN EN TIEMPO Y FORMA.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>En este enlace van a encontrar una plantilla para que no se olviden de lo que no puede faltar en la propuesta.</p>
-<!-- /wp:paragraph -->
+<!-- wp:image {"id":613,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://jmmaffei.com/wp-content/uploads/2020/04/infografia_vision-410x1024.png" alt="" class="wp-image-613"/><figcaption>Síntesis</figcaption></figure>
+<!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p>Nuestro medio de comunicación principal será el canal de Slack de cada equipo.</p>
