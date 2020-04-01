@@ -31,9 +31,9 @@ post_date: 2020-04-01 05:44:23
 <p>Para esta clase (y quizás para algunas más) vamos a considerar el siguiente ejemplo (completamente ficticio y muy improbable):</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Tu equipo maneja una empresa de montaje electromecánico. Hacen un poco de todo... saben electricidad, algo de electrónica, mecánica, sistemas de control industrial, hidráulica, neumática.</p><p>Un día MARTES, se comienza a propagar en el mundo un virus proveniente de... digamos... China. Para proteger a la sociedad, el Presidente declara una cuarentena total que regirá a partir del próximo LUNES.</p><p>Inmediatamente, un correo electrónico entra a la empresa y dice lo siguiente:</p><p><em>"Estimados, les escribo de Correo Argenchino. Nuestra sucursal de Villa Constitución no podrá atender al público pero debemos despachar alimentos y medicamentos hacia el resto del país. Requerimos que solucionen el problema de los despachos de correo. Necesitamos un sistema o dispositivo que permita que la gente se acerque a nuestra sucursal sin ingresar a la misma y que pueda organizar el despacho de los paquetes. El problema es que no pueden estar a menos de dos metros de distancia, y bueno... ustedes conocen las recomendaciones para no propagar el virus. Además, debe ser fácil de utilizar y tiene que estar listo para cuando comience la cuarentena. No tenemos muchos fondos pero recientemente hemos vendido un vehículo usado (Ford Ka del 2010 con 250.000 km. que usábamos para repartos) para pagar este sistema cuanto antes."</em></p><cite>Autoría propia</cite></blockquote>
-<!-- /wp:quote -->
+<!-- wp:html -->
+<blockquote class="wp-block-quote"><p id="problema">Tu equipo maneja una empresa de montaje electromecánico. Hacen un poco de todo... saben electricidad, algo de electrónica, mecánica, sistemas de control industrial, hidráulica, neumática.</p><p>Un día MARTES, se comienza a propagar en el mundo un virus proveniente de... digamos... China. Para proteger a la sociedad, el Presidente declara una cuarentena total que regirá a partir del próximo LUNES.</p><p>Inmediatamente, un correo electrónico entra a la empresa y dice lo siguiente:</p><p><em>"Estimados, les escribo de Correo Argenchino. Nuestra sucursal de Villa Constitución no podrá atender al público pero debemos despachar alimentos y medicamentos hacia el resto del país. Requerimos que solucionen el problema de los despachos de correo. Necesitamos un sistema o dispositivo que permita que la gente se acerque a nuestra sucursal sin ingresar a la misma y que pueda organizar el despacho de los paquetes. El problema es que no pueden estar a menos de dos metros de distancia, y bueno... ustedes conocen las recomendaciones para no propagar el virus. Además, debe ser fácil de utilizar y tiene que estar listo para cuando comience la cuarentena. No tenemos muchos fondos pero recientemente hemos vendido un vehículo usado (Ford Ka del 2010 con 250.000 km. que usábamos para repartos) para pagar este sistema cuanto antes."</em></p><cite>Autoría propia</cite></blockquote>
+<!-- /wp:html -->
 
 <!-- wp:heading {"level":3} -->
 <h3>Los objetivos</h3>
@@ -112,7 +112,7 @@ post_date: 2020-04-01 05:44:23
 <!-- /wp:table -->
 
 <!-- wp:paragraph -->
-<p>Tengan en cuenta que debemos cumplir con un plazo establecido por el cliente (si no lo recordás, volvé a leer el problema).</p>
+<p>Tengan en cuenta que debemos cumplir con un plazo establecido por el cliente (si no lo recordás, <a href="#problema">volvé a leer el problema</a>).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -144,7 +144,7 @@ post_date: 2020-04-01 05:44:23
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Se debe evaluar cuál es la máxima inversión con la que contamos para diseñar e implementar el proyecto. En nuestro ejemplo, hubo un dato que permitió conocerlo de manera indirecta (si te lo perdiste, volvé a leer el problema... ¡vago!).</p>
+<p>Se debe evaluar cuál es la máxima inversión con la que contamos para diseñar e implementar el proyecto. En nuestro ejemplo, hubo un dato que permitió conocerlo de manera indirecta (si te lo perdiste, <a href="#problema">volvé a leer el problema</a>... ¡vago!).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
