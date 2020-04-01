@@ -167,9 +167,9 @@ post_date: 2020-04-01 05:44:23
 <p>¡A trabajar!</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p><strong>Bibliografía</strong></p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2> <strong>Bibliografía</strong></h2>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p><strong>Teixidó, J. (2017).</strong> Gestión visual de proyectos: las 12 claves para motivar equipos y conseguir proyectos ganadores. Profit Editorial: Barcelona.</p>
