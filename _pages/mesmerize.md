@@ -24,7 +24,7 @@ post_date: 2018-02-26 08:51:24
     <i  class="fa icon color1 fa-child reverse round large"> </i>
     <h4  class="">SOBRE MÍ</h4>
     <p  class="">Información sobre los proyectos en los que trabajo y mi formación.</p>
-    <a  class="button small y-move color2" href="https://jmmaffei.com/sobre-mi" target="_self" data-cp-link="1"> Ir </a>
+    <a  class="button small y-move color2" href="https://jmmaffei.com/sobre-mi" target="_self" data-cp-link="1" rel="noopener noreferrer"> Ir </a>
     
     </div>
     </div>
@@ -34,7 +34,7 @@ post_date: 2018-02-26 08:51:24
     <i  class="fa icon color1 fa-leanpub reverse round large"> </i>
     <h4  class="">BLOG</h4>
     <p  class="">Mi blog.</p>
-    <a  class="button small y-move color2" href="https://jmmaffei.com/blog" target="_self" data-cp-link="1"> Entrar </a>
+    <a  class="button small y-move color2" href="https://jmmaffei.com/blog" target="_self" data-cp-link="1" rel="noopener noreferrer"> Entrar </a>
     
     </div>
     </div>
@@ -44,7 +44,7 @@ post_date: 2018-02-26 08:51:24
     <i  class="fa icon color1 fa-mortar-board reverse round large"> </i>
     <h4  class="">RECURSOS PARA ALUMNOS</h4>
     <p  class="">Si sos alumno, pasá por acá…</p>
-    <a  class="button small y-move color2" href="recursos" target="_self" data-cp-link="1"> Y dale… </a>
+    <a  class="button small y-move color2" href="https://jmmaffei.com/recursos" target="_self" data-cp-link="1" rel="noopener noreferrer"> Y dale… </a>
     
     </div>
     </div>
