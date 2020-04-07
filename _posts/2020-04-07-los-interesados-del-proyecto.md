@@ -16,7 +16,7 @@ Definir correctamente los interesados (o en inglés <em>stakeholders</em>) es un
 En este módulo nos vamos a encargar de identificar los interesados de nuestro proyecto a través de una <span style="color: var(--color-text);"><strong>matriz de poder/interés</strong>. Más adelante, usaremos, además, un modelo de prominencia.</span>
 <h1>1. Matriz de poder-interés</h1>
 <h2>1.1 El poder</h2>
-El&nbsp;<strong>poder</strong> es la capacidad de <em>influir</em>. Jordi Teixidó (2017) toma una clasificación de poder de French y Raver (1971) que nos servirá para identificar quiénes pueden ejercer distintos tipos de poder en nuestro proyecto.
+El <strong>poder</strong> es la capacidad de <em>influir</em>. Jordi Teixidó (2017) toma una clasificación de poder de French y Raver (1971) que nos servirá para identificar quiénes pueden ejercer distintos tipos de poder en nuestro proyecto.
 <ul>
  	<li><strong>Poder legítimo o formal:</strong> son los directivos del proyecto, los administradores de la empresa y todos aquellos que tengan influencia directa en las posibilidades de ejecución o rechazo de la propuesta. Debemos buscar beneficios para estas personas de inmediato, ya sea económicos o, en algunos casos, "de ego".</li>
  	<li><strong>Poder de recompensa:</strong> son los que pueden influir para que los promotores del proyecto o inversores accedan a financiar nuestro proyecto. Son intermediarios entre los integrantes del proyecto y estos actores con poder legítimo.</li>
@@ -44,7 +44,7 @@ Es necesario empatizar (ponerse en el lugar del otro) y pensar si cada uno de nu
 <h2>1.3 El armado de la matriz</h2>
 Dependiendo de los niveles de influencia y poder en el proyecto, nuestros potenciales interesados se podrán caracterizar en cuatro grupos.
 
-<img class="alignnone size-full wp-image-654" src="https://jmmaffei.com/wp-content/uploads/2020/04/matriz-de-influencia-interes.png" alt="matriz de influencia interes" width="1209" height="1102">
+<img class="alignnone size-full wp-image-654" src="https://jmmaffei.com/wp-content/uploads/2020/04/matriz-de-influencia-interes.png" alt="matriz de influencia interes" width="1209" height="1102" />
 <ul>
  	<li><strong>Mantener satisfechos:</strong> debemos motivarlos para que aumenten su interés.</li>
  	<li><strong>Gestionar atentamente:</strong> debemos atenderlos y mantenerlos bien informados.</li>
@@ -60,8 +60,10 @@ Dependiendo de los niveles de influencia y poder en el proyecto, nuestros potenc
  	<li>Escribir los nombres de cada interesado en el cuadrante correspondiente de la diapositiva 6.</li>
 </ol>
 <h1>3. Bibliografía</h1>
-PMBOK, G. (2017). Guía de los Fundamentos de la Dirección de Proyectos.&nbsp;<i>Project Management Institute Inc</i>,&nbsp;<i>2</i>.
+<strong>PMBOK, G. (2017).</strong> Guía de los Fundamentos de la Dirección de Proyectos. <i>Project Management Institute Inc</i>, <i>2</i>.
 
-French, J., &amp; Raven, B. (1971). Las bases del poder social.&nbsp;<i>Dinámica de grupos. México: Trillas</i>.
+<strong>Teixidó, J. (2017).</strong> Gestión visual de proyectos: las 12 claves para motivar equipos y conseguir proyectos ganadores. Profit Editorial: Barcelona.
 
-Meliá, J. L., Oliver, A., &amp; Tomás, J. M. (1993). El poder en las organizaciones y su medición. El cuestionario de poder formal e informal.&nbsp;<i>Revista Latinoamericana de Psicología</i>,&nbsp;<i>25</i>(2), 139-155.
+<strong>French, J., &amp; Raven, B. (1971).</strong> Las bases del poder social. <i>Dinámica de grupos. México: Trillas</i>.
+
+<strong>Meliá, J. L., Oliver, A., &amp; Tomás, J. M. (1993).</strong> El poder en las organizaciones y su medición. El cuestionario de poder formal e informal. <i>Revista Latinoamericana de Psicología</i>, <i>25</i>(2), 139-155.
