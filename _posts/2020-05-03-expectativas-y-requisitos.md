@@ -66,7 +66,7 @@ Los diseños de los prototipos se entregarán de manera progresiva. Esto signifi
 
 <em>Fechas de entrega: </em>
 <ul>
-	<li>10/5</li>
 	<li>14/5</li>
 	<li>18/5</li>
+	<li>22/5</li>
 </ul>
