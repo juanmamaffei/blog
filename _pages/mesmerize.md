@@ -24,7 +24,7 @@ post_date: 2018-02-26 08:51:24
     <i  class="fa icon color1 fa-child reverse round large"> </i>
     <h4  class="">SOBRE MÍ</h4>
     <p  class="">Información sobre los proyectos en los que trabajo y mi formación.</p>
-    <a  class="button small y-move color2" href="https://jmmaffei.com/sobre-mi" target="_self" data-cp-link="1" rel="noopener noreferrer"> Ir </a>
+    <a class="button small y-move color2" href="https://jmmaffei.com/sobre-mi" target="_self" data-cp-link="1" rel="noopener noreferrer"> Ir </a>
     
     </div>
     </div>
@@ -34,7 +34,7 @@ post_date: 2018-02-26 08:51:24
     <i  class="fa icon color1 fa-leanpub reverse round large"> </i>
     <h4  class="">BLOG</h4>
     <p  class="">Mi blog.</p>
-    <a  class="button small y-move color2" href="https://jmmaffei.com/blog" target="_self" data-cp-link="1" rel="noopener noreferrer"> Entrar </a>
+    <a class="button small y-move color2" href="https://jmmaffei.com/blog" target="_self" data-cp-link="1" rel="noopener noreferrer"> Entrar </a>
     
     </div>
     </div>
@@ -44,7 +44,7 @@ post_date: 2018-02-26 08:51:24
     <i  class="fa icon color1 fa-mortar-board reverse round large"> </i>
     <h4  class="">RECURSOS PARA ALUMNOS</h4>
     <p  class="">Si sos alumno, pasá por acá…</p>
-    <a  class="button small y-move color2" href="https://jmmaffei.com/recursos" target="_self" data-cp-link="1" rel="noopener noreferrer"> Y dale… </a>
+    <a class="button small y-move color2" href="https://jmmaffei.com/recursos" target="_self" data-cp-link="1" rel="noopener noreferrer"> Y dale… </a>
     
     </div>
     </div>
@@ -63,7 +63,7 @@ post_date: 2018-02-26 08:51:24
     <div  data-type="row" data-dynamic-columns="handled" data-content-shortcode="mesmerize_latest_news">[mesmerize_latest_news]</div>
     </div>
     <div  class="row">
-    <div  class="text-center"><a  class="button color1" data-attr-shortcode="href:mesmerize_blog_link" href="[mesmerize_blog_link]" target="_self" rel="noopener noreferrer">Ir al blog</a></div>
+    <div  class="text-center"><a class="button color1" data-attr-shortcode="href:mesmerize_blog_link" href="[mesmerize_blog_link]" target="_self" rel="noopener noreferrer">Ir al blog</a></div>
     </div>
     </div>
     </div>
