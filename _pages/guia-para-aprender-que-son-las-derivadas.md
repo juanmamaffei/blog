@@ -9,7 +9,7 @@ layout: page
 permalink: >
   https://jmmaffei.com/guia-para-aprender-que-son-las-derivadas/
 published: true
-post_date: 2020-09-21 11:02:33
+post_date: 2020-09-21 10:55:42
 ---
 <h2>te apuesto a que vas a saber qué son las derivadas</h2>
 Para que aprendas EN SERIO, tenés que ponerte a trabajar... no basta con mirar un video. Por eso, acá te dejo una PROPUESTA DIDÁCTICA para orientar tu aprendizaje.
