@@ -21,12 +21,16 @@ post_date: 2020-03-26 05:45:18
 <!-- /wp:heading -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table class=""><tbody><tr><td><strong>Profesor de Educación Secundaria en Matemática</strong><br>Instituto Superior de Profesorado N° 3 “Eduardo Lafferriere”<br></td></tr><tr><td><strong>Profesor en Educación Tecnológica</strong><br>Universidad del Salvador<br></td></tr><tr><td><strong>Profesor de Educación Secundaria de la Modalidad Técnico-Profesional en concurrencia con el título de base</strong><br>Instituto Superior de Formación Docente y Técnica N° 128<br><br><em><strong>Título de base:</strong> <strong>Técnico en Electrónica</strong><br>Escuela Particular Incorporada N° 2073 “San Pablo”</em></td></tr><tr><td><strong>Licenciado en Informática Educativa</strong><br>(<strong><em>100% de materias aprobadas | En espera de corrección de trabajo final)</em></strong><br>Universidad Nacional de Lanús</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table><tbody><tr><td><strong>Profesor de Educación Secundaria en Matemática</strong><br>Instituto Superior de Profesorado N° 3 “Eduardo Lafferriere”<br></td></tr><tr><td><strong>Profesor en Educación Tecnológica</strong><br>Universidad del Salvador<br></td></tr><tr><td><strong>Profesor de Educación Secundaria de la Modalidad Técnico-Profesional en concurrencia con el título de base</strong><br>Instituto Superior de Formación Docente y Técnica N° 128<br><br><em><strong>Título de base:</strong> <strong>Técnico en Electrónica</strong><br>Escuela Particular Incorporada N° 2073 “San Pablo”</em></td></tr><tr><td><strong>Licenciado en Informática Educativa</strong><br>(<strong><em>100% de materias aprobadas | En espera de corrección de trabajo final)</em></strong><br>Universidad Nacional de Lanús</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:heading {"level":3} -->
-<h3>Posgrados finalizados</h3>
+<h3>Posgrado</h3>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Maestría en Comunicación Digital Interactiva - ¡EN CURSO!</strong><br>Universidad Nacional de Rosario - Facultad de Ciencia Política</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong>Diplomatura Superior Organizacional en Dirección y Supervisión de Instituciones Socioeducativas</strong><br>Universidad Abierta Interamericana</p>
