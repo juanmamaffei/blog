@@ -77,11 +77,11 @@ post_date: 2020-03-26 05:45:18
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Desarrollo del sistema <a href="http://www.praemium.com.ar">Praemium</a></p>
+<p><a href="http://www.praemium.com.ar">Praemium</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Mantenimiento y soporte técnico de infraestructura tecnológica de empresas de Villa Constitución</p>
+<p><a href="https://netcorp.com.ar" target="_blank" rel="noreferrer noopener">Netcorp</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
