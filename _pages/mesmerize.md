@@ -1,7 +1,7 @@
 ---
 ID: 5
 post_title: Front Page
-author: jmmaffei
+author: Juanma Maffei
 post_excerpt: ""
 layout: page
 permalink: https://jmmaffei.com/
