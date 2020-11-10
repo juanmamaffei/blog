@@ -1,13 +1,15 @@
 ---
 ID: 928
-post_title: 50 derivadas resueltas
+post_title: >
+  Descargar PLANILLA de GESTIÓN DE
+  PROYECTOS
 author: Juanma Maffei
 post_excerpt: ""
 layout: page
 permalink: >
-  https://jmmaffei.com/50-derivadas-resueltas-2/
+  https://jmmaffei.com/descargar-planilla-de-gestion-de-proyectos/
 published: true
-post_date: 2020-11-10 13:59:04
+post_date: 2020-11-10 13:53:33
 ---
 <h2>50 derivadas para que practiques... y encima te las resuelvo en un solo video</h2>
 Te pido algunos datos... no te voy a mandar SPAM ni nada por el estilo. Solamente quiero conocerte mejor y así poder ofrecerte un mejor contenido.
