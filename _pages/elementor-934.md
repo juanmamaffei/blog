@@ -1,6 +1,6 @@
 ---
 ID: 934
-post_title: 'Elementor #934'
+post_title: 'Praemium &#8211; Noticias'
 author: Juanma Maffei
 post_excerpt: ""
 layout: page
